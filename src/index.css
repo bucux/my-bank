@@ -1,0 +1,9 @@
+
+img{
+  object-fit: cover;
+}
+
+.centreur{
+  width: 1024px;
+  margin: auto;
+}

@@ -1,0 +1,8 @@
+
+
+.accounts-cont0{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  gap: 100px;
+}
